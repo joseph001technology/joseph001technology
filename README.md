@@ -30,15 +30,12 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name       : Joseph Kiarie
-role       : Full-Stack Developer & Mobile Engineer
-education  : BBIT Student
-location   : Kenya
-focus      : Scalable web apps, mobile solutions & clean UI/UX
-goal       : World-class full-stack & product-focused developer
-philosophy : "I don't just write code — I build solutions people can actually use."
-```
+- 🎓 **BBIT Student** with hands-on experience building and shipping real projects
+- 🌍 Based in **Kenya** — building software with real-world impact in mind
+- 💻 Backend-focused with **Django & Python**, expanding into **React, PHP & Laravel**
+- 📱 Building cross-platform mobile apps with **Flutter**
+- 🎨 Strong interest in **UI/UX design** — I care about how software feels, not just how it works
+- 🤖 Currently exploring **Artificial Intelligence** and its integration into modern applications
 
 ---
 
@@ -115,15 +112,12 @@ philosophy : "I don't just write code — I build solutions people can actually 
 
 ---
 
-## 💡 What I Bring to the Table
+## 💡 Core Strengths
 
-<div align="center">
-
-| 🧠 Problem Solving | 🎨 Design Thinking | ⚙️ Full-Cycle Dev | 🚀 Delivery |
-|---|---|---|---|
-| Strong analytical mindset to break down complex problems | Eye for clean UI/UX and intuitive user experiences | Design → Build → Test → Deploy | Focused on real-world, production-ready output |
-
-</div>
+- **End-to-end ownership** — comfortable across the full stack, from database schema to frontend interface
+- **Systems thinking** — I approach problems by understanding requirements before writing a single line of code
+- **Design sensibility** — I pay attention to UX, not just functionality; software should be intuitive to use
+- **Continuous learning** — actively expanding into AI, cloud, and security beyond my core stack
 
 ---
 
@@ -131,6 +125,6 @@ philosophy : "I don't just write code — I build solutions people can actually 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*⭐ If you find my work interesting, feel free to star a repo or reach out — let's build something great together.*
+*⭐ If you find my work interesting, feel free to explore my repositories or reach out.*
 
 </div>
