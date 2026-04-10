@@ -123,11 +123,9 @@ philosophy : "I don't just write code — I build solutions people can actually 
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=joseph001technology&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseph001technology&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
