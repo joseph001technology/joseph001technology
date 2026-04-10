@@ -53,7 +53,7 @@ A smart platform that connects farmers directly with customers.
 - 🛒 Customers can browse and place orders  
 - 📱 Designed for accessibility and real-world usage  
 
-🔗 https://github.com/joseph001technology
+🔗  https://github.com/joseph001technology/Farmers-App-Backend
 
 ---
 
@@ -81,7 +81,7 @@ A collection of clean, modern UI designs and layouts.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_WEBSITE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://kiariejosephdevworks.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
