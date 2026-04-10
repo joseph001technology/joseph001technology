@@ -6,6 +6,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-world+digital+solutions;Full-Stack+%7C+Mobile+%7C+UI%2FUX;Django+%7C+React+%7C+Flutter+%7C+PHP;Turning+ideas+into+production-ready+systems)](https://git.io/typing-svg)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=joseph001technology&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiariejosephdevworks.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephnkiarie054@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseph001technology)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiarie_devworks?igsh=MXkyMGNmZnRsdmQxbA==)
+
 </div>
 
 ---
@@ -18,7 +36,6 @@ role       : Full-Stack Developer & Mobile Engineer
 education  : BBIT Student
 location   : Kenya
 focus      : Scalable web apps, mobile solutions & clean UI/UX
-current    : Building FarmLink — a digital marketplace for farmers
 goal       : World-class full-stack & product-focused developer
 philosophy : "I don't just write code — I build solutions people can actually use."
 ```
@@ -48,7 +65,7 @@ philosophy : "I don't just write code — I build solutions people can actually 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🎨 Design & DevOps
+### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -79,52 +96,23 @@ philosophy : "I don't just write code — I build solutions people can actually 
 
 ---
 
-## 📌 Featured Projects
+## 📈 Current Focus
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| 🌾 **FarmLink** | Smart marketplace connecting farmers directly with customers | Django · REST API · Flutter | 🚧 In Progress |
-| 📝 **Blog System** | Full-featured blog with nested comments, categories & auth | Django · MPTT · Python | ✅ Complete |
-| 🎨 **Designer Portfolio** | Clean, modern UI/UX showcase with mobile-first designs | Figma · HTML/CSS · JS | ✅ Complete |
-| ⚙️ **React Dashboard** | Admin dashboard with dynamic components and data views | React · JavaScript · CSS | 🚧 In Progress |
+| Area | What I'm Exploring |
+|---|---|
+| ⚛️ **React** | Building dynamic, component-driven frontends |
+| 🐘 **PHP & Laravel** | Backend capabilities & MVC architecture |
+| 📱 **Flutter** | Polished cross-platform mobile apps |
+| 🐍 **Advanced Python** | Data structures, algorithms & clean architecture |
+| 🤖 **Artificial Intelligence** | ML fundamentals, model integration & AI-powered apps |
+| ☁️ **Cloud & DevOps** | Deployment, CI/CD pipelines & cloud infrastructure |
+| 🎯 **System Design** | Architecting scalable, maintainable software |
+| 🔐 **Cybersecurity** | Secure coding practices & web application security |
 
 </div>
 
----
-
-### 🌾 FarmLink — Capstone Project
-
-> A smart platform that connects farmers directly with customers, built for real-world usage and accessibility.
-
-- 📦 Farmers can list crops with live pricing
-- 🛒 Customers can browse, filter, and place orders
-- 📱 Mobile-first design for low-bandwidth users
-- 🔐 Authentication & role-based access control
-- 🔗 REST API backend for future mobile app integration
-
-[![FarmLink Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseph001technology/Farmers-App-Backend)
-
----
-
-### 📝 Blog System — Django Platform
-
-> Production-ready Django blog with advanced features and clean architecture.
-
-- 🧵 Nested comments using Django MPTT
-- 🗂️ Category management & post tagging
-- 🔐 Full authentication system
-- 🎨 Clean, responsive UI
-
-[![Blog Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseph001technology)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=joseph001technology&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
-![Profile Views](https://komarev.com/ghpvc/?username=joseph001technology&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 ---
 
 ## 💡 What I Bring to the Table
@@ -134,30 +122,6 @@ philosophy : "I don't just write code — I build solutions people can actually 
 | 🧠 Problem Solving | 🎨 Design Thinking | ⚙️ Full-Cycle Dev | 🚀 Delivery |
 |---|---|---|---|
 | Strong analytical mindset to break down complex problems | Eye for clean UI/UX and intuitive user experiences | Design → Build → Test → Deploy | Focused on real-world, production-ready output |
-
-</div>
-
----
-
-## 📈 Current Focus
-
-- 🌾 **FarmLink** — Scaling to a full production system with payments & logistics
-- ⚛️ **React** — Building dynamic, component-driven frontends
-- 🐘 **PHP/Laravel** — Expanding backend capabilities
-- 📱 **Flutter** — Shipping polished cross-platform mobile apps
-- 🎯 **System Design** — Architecting scalable, maintainable software
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiariejosephdevworks.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephnkiarie054@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseph001technology)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiarie_devworks?igsh=MXkyMGNmZnRsdmQxbA==)
 
 </div>
 
